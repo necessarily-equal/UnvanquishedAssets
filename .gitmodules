@@ -1,90 +1,120 @@
 [submodule "src/map-antares_src.dpkdir"]
 	path = src/map-antares_src.dpkdir
 	url = ../map-antares_src.dpkdir
+	branch = master
 [submodule "src/map-chasm_src.dpkdir"]
 	path = src/map-chasm_src.dpkdir
 	url = ../map-chasm_src.dpkdir
+	branch = master
 [submodule "src/map-forlorn_src.dpkdir"]
 	path = src/map-forlorn_src.dpkdir
 	url = ../map-forlorn_src.dpkdir
+	branch = master
 [submodule "src/map-parpax_src.dpkdir"]
 	path = src/map-parpax_src.dpkdir
 	url = ../map-parpax_src.dpkdir
+	branch = master
 [submodule "src/map-perseus_src.dpkdir"]
 	path = src/map-perseus_src.dpkdir
 	url = ../map-perseus_src.dpkdir
+	branch = master
 [submodule "src/map-plat23_src.dpkdir"]
 	path = src/map-plat23_src.dpkdir
 	url = ../map-plat23_src.dpkdir
+	branch = master
 [submodule "src/map-spacetracks_src.dpkdir"]
 	path = src/map-spacetracks_src.dpkdir
 	url = ../map-spacetracks_src.dpkdir
+	branch = master
 [submodule "src/map-station15_src.dpkdir"]
 	path = src/map-station15_src.dpkdir
 	url = ../map-station15_src.dpkdir
+	branch = master
 [submodule "src/map-thunder_src.dpkdir"]
 	path = src/map-thunder_src.dpkdir
 	url = ../map-thunder_src.dpkdir
+	branch = master
 [submodule "src/map-vega_src.dpkdir"]
 	path = src/map-vega_src.dpkdir
 	url = ../map-vega_src.dpkdir
+	branch = master
 [submodule "src/map-yocto_src.dpkdir"]
 	path = src/map-yocto_src.dpkdir
 	url = ../map-yocto_src.dpkdir
+	branch = master
 [submodule "src/res-ambient_src.dpkdir"]
 	path = src/res-ambient_src.dpkdir
 	url = ../res-ambient_src.dpkdir
+	branch = master
 [submodule "src/res-buildables_src.dpkdir"]
 	path = src/res-buildables_src.dpkdir
 	url = ../res-buildables_src.dpkdir
+	branch = master
 [submodule "src/res-legacy_src.dpkdir"]
 	path = src/res-legacy_src.dpkdir
 	url = ../res-legacy_src.dpkdir
+	branch = master
 [submodule "src/res-players_src.dpkdir"]
 	path = src/res-players_src.dpkdir
 	url = ../res-players_src.dpkdir
+	branch = master
 [submodule "src/res-soundtrack_src.dpkdir"]
 	path = src/res-soundtrack_src.dpkdir
 	url = ../res-soundtrack_src.dpkdir
+	branch = master
 [submodule "src/res-voices_src.dpkdir"]
 	path = src/res-voices_src.dpkdir
 	url = ../res-voices_src.dpkdir
+	branch = master
 [submodule "src/res-weapons_src.dpkdir"]
 	path = src/res-weapons_src.dpkdir
 	url = ../res-weapons_src.dpkdir
+	branch = master
 [submodule "src/tex-all_src.dpkdir"]
 	path = src/tex-all_src.dpkdir
 	url = ../tex-all_src.dpkdir
+	branch = master
 [submodule "src/tex-common_src.dpkdir"]
 	path = src/tex-common_src.dpkdir
 	url = ../tex-common_src.dpkdir
+	branch = master
 [submodule "src/tex-ej01_src.dpkdir"]
 	path = src/tex-ej01_src.dpkdir
 	url = ../tex-ej01_src.dpkdir
+	branch = master
 [submodule "src/tex-ex_src.dpkdir"]
 	path = src/tex-ex_src.dpkdir
 	url = ../tex-ex_src.dpkdir
+	branch = master
 [submodule "src/tex-exm_src.dpkdir"]
 	path = src/tex-exm_src.dpkdir
 	url = ../tex-exm_src.dpkdir
+	branch = master
 [submodule "src/tex-pk01_src.dpkdir"]
 	path = src/tex-pk01_src.dpkdir
 	url = ../tex-pk01_src.dpkdir
+	branch = master
 [submodule "src/tex-pk02_src.dpkdir"]
 	path = src/tex-pk02_src.dpkdir
 	url = ../tex-pk02_src.dpkdir
+	branch = master
 [submodule "src/tex-space_src.dpkdir"]
 	path = src/tex-space_src.dpkdir
 	url = ../tex-space_src.dpkdir
+	branch = master
 [submodule "src/tex-tech_src.dpkdir"]
 	path = src/tex-tech_src.dpkdir
 	url = ../tex-tech_src.dpkdir
+	branch = master
 [submodule "src/tex-trak5_src.dpkdir"]
 	path = src/tex-trak5_src.dpkdir
 	url = ../tex-trak5_src.dpkdir
+	branch = master
 [submodule "src/tex-vega_src.dpkdir"]
 	path = src/tex-vega_src.dpkdir
 	url = ../tex-vega_src.dpkdir
+	branch = master
 [submodule "src/unvanquished_src.dpkdir"]
 	path = src/unvanquished_src.dpkdir
 	url = ../unvanquished_src.dpkdir
+	branch = master
